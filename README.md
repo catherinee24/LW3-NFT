@@ -16,10 +16,10 @@ The smart contract <a href="https://goerli.etherscan.io/address/0x6b789435b4bec1
 
 ```bash
 # Clone this project
-$ git clone https://github.com/catherinee24/lw3-nft
+$ git clone https://github.com/catherinee24/LW3-NFT
 
 # Access
-$ cd lw3-nft
+$ cd LW3-NFT
 
 # Install dependencies
 $ npm install
